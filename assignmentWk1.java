@@ -13,5 +13,12 @@ public class assignmentWk1 {
             "Which African country is known as the 'Rainbow Nation'?",
             "What is the tallest mountain in Africa?"
         };
+        String[] options = {
+            "A. Kalahari\tB. Sahara\tC. Namibia\tD. Atacama",
+            "A. Nile\tB. Congo\tC. Niger\tD. Zambezi",
+            "A. Nigeria\tB. Kenya\tC. South Africa\tD. Egypt",
+            "A. Mount Kenya\tB. Mount Kilimanjaro\tC. Mount Elgon\tD. Mount Cameroon"
+        };
+        char[] answers = {'B', 'A', 'C', 'B'};
     }
 }
