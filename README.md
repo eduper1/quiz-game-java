@@ -1,7 +1,7 @@
-**Task**
+**Task:**
 You are tasked with creating a Java program that simulates a simple quiz game. The program should prompt the user with a series of questions and allow them to enter their answers. After the user has answered all the questions, the program should compute and display the final score based on the number of correct answers.
 
-**Requirements**
+**Requirements:**
 Make sure the following requirements are met:
 
         The program should include five multiple-choice questions with four options.
